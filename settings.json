@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "191.96.231.30",
-    "port": 11026,
+    "ip": "playsword.play.hosting",
+    "port": 3654,
     "version": "",
     "try-creative": false
   },
