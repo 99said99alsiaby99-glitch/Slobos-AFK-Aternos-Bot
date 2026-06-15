@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swordart.play.hosting",
-    "port": 25565,
+    "ip": "vincraft.aternos.me",
+    "port": 14841,
     "version": "",
     "try-creative": false
   },
